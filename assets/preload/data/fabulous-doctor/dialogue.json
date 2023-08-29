@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(cheer 100)"
+		},
+		{
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "doom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hola bf, muchacho guapeton acaba de donar 100 bits"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "jerry, te patece cantar un poco en vivo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(tokupower cheer 10 bits)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "doom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "gracias por los 10 bits toku power"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "jala o no viejo pendejo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "claro, a ver que tienes preparado muchacho guapeton"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(cheer 10)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "un saludo a la banda crapuliana"
+		},
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "ahora jerry ponte en cuatro que traigo rifle"
+		}
+	]
+}

@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "doom",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "a ver, tu eres el pendejo que dijo QUE YO MANDABA CP"
+		},
+		{
+			"sound": "",
+			"speed": 0.00500000000000001,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "si, porqu..."
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "doom",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "PORQUE QUE"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "yo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "doom",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "CALLATE ALV, UNETE A LA LLAMADA SI HAY HUEVOS"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "pinche p`endejo no sabe que tengo un iq de 120"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bf no le vayas al vergas, ni hablar bien puedes"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "si puedo rapear bien, apoco si voy a poder papear bien w"
+		}
+	]
+}

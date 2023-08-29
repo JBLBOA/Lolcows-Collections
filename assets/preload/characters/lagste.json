@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				298,
+				-75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "lagste idle"
+		},
+		{
+			"offsets": [
+				28,
+				111
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "lagste up"
+		},
+		{
+			"offsets": [
+				180,
+				-590
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "lagste down"
+		},
+		{
+			"offsets": [
+				-41,
+				-270
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "lagste left"
+		},
+		{
+			"offsets": [
+				372,
+				-181
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "lagste right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lagste",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "g9g",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		10,
+		310
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

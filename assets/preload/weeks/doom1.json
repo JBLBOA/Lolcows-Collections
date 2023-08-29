@@ -1,0 +1,59 @@
+{
+	"storyName": "doomentio",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"takis and soda",
+			"ocio",
+			[
+				26,
+				113,
+				253
+			]
+		],
+		[
+			"free fire",
+			"oveja",
+			[
+				255,
+				213,
+				175
+			]
+		],
+		[
+			"zinc",
+			"colchon",
+			[
+				146,
+				133,
+				253
+			]
+		],
+		[
+			"ariotastic",
+			"doom",
+			[
+				146,
+				255,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dum",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "doom1"
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fondo.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fondo0000" x="0" y="4186" width="1461" height="423" frameX="0" frameY="-67" frameWidth="1461" frameHeight="498"/>
+	<SubTexture name="fondo0001" x="0" y="3755" width="1461" height="431" frameX="0" frameY="-60" frameWidth="1461" frameHeight="498"/>
+	<SubTexture name="fondo0002" x="0" y="3315" width="1461" height="440" frameX="0" frameY="-52" frameWidth="1461" frameHeight="498"/>
+	<SubTexture name="fondo0003" x="0" y="2867" width="1461" height="448" frameX="0" frameY="-45" frameWidth="1461" frameHeight="498"/>
+	<SubTexture name="fondo0004" x="0" y="2410" width="1461" height="457" frameX="0" frameY="-37" frameWidth="1461" frameHeight="498"/>
+	<SubTexture name="fondo0005" x="0" y="1945" width="1461" height="465" frameX="0" frameY="-30" frameWidth="1461" frameHeight="498"/>
+	<SubTexture name="fondo0006" x="0" y="1471" width="1461" height="474" frameX="0" frameY="-22" frameWidth="1461" frameHeight="498"/>
+	<SubTexture name="fondo0007" x="0" y="989" width="1461" height="482" frameX="0" frameY="-15" frameWidth="1461" frameHeight="498"/>
+	<SubTexture name="fondo0008" x="0" y="498" width="1461" height="491" frameX="0" frameY="-7" frameWidth="1461" frameHeight="498"/>
+	<SubTexture name="fondo0009" x="0" y="0" width="1461" height="498"/>
+	<SubTexture name="fondo0010" x="0" y="0" width="1461" height="498"/>
+	<SubTexture name="fondo0011" x="0" y="0" width="1461" height="498"/>
+	<SubTexture name="fondo0012" x="0" y="0" width="1461" height="498"/>
+	<SubTexture name="fondo0013" x="0" y="0" width="1461" height="498"/>
+	<SubTexture name="fondo0014" x="0" y="0" width="1461" height="498"/>
+</TextureAtlas>

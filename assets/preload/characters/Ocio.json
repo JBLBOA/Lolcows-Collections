@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-112,
+				-165
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ocio idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-251,
+				-180
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ocio right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-231
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Ocio left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-131,
+				-89
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ocio up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-141,
+				-248
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ocio down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ocio",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "g9g",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		250,
+		280
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

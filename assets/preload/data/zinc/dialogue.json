@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "oye oveja y doom donde esta"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ovejita",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "seguro esta en su cuarto, deja voy a ver"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "el siguiente material, estara en un formato de video para que nadie quede traumado"
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "doom",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "ay we, no habia ningun taki en la tienda...   mejor... mejor me voy"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "doom",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "QUE ES ESO, ES LO QUE CREO QUE ES"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "que ricos estan mis takis..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "doom",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "OYE TU, MOCOSO, me combidas los takis, porfa-_-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "si me ganas en una batalla de rap, te comparte unos cuantos"
+		}
+	]
+}

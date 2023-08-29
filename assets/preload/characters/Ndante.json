@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				88,
+				-65
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "ndante Idle"
+		},
+		{
+			"offsets": [
+				91,
+				-78
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Ndante Down"
+		},
+		{
+			"offsets": [
+				94,
+				-79
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Ndante Right"
+		},
+		{
+			"offsets": [
+				82,
+				-62
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ndante Up"
+		},
+		{
+			"offsets": [
+				59,
+				-72
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Ndante left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ndante",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "oveja",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		115
+	],
+	"camera_position": [
+		-20,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

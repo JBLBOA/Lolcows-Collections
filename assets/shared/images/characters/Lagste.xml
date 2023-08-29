@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lagste.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lagste down0000" x="6372" y="0" width="593" height="225"/>
+	<SubTexture name="lagste down0001" x="6372" y="0" width="593" height="225"/>
+	<SubTexture name="lagste down0002" x="6965" y="0" width="593" height="201" frameX="0" frameY="-24" frameWidth="593" frameHeight="225"/>
+	<SubTexture name="lagste down0003" x="6965" y="0" width="593" height="201" frameX="0" frameY="-24" frameWidth="593" frameHeight="225"/>
+	<SubTexture name="lagste down0004" x="6965" y="0" width="593" height="201" frameX="0" frameY="-24" frameWidth="593" frameHeight="225"/>
+	<SubTexture name="lagste down0005" x="6965" y="0" width="593" height="201" frameX="0" frameY="-24" frameWidth="593" frameHeight="225"/>
+	<SubTexture name="lagste down0006" x="6965" y="0" width="593" height="201" frameX="0" frameY="-24" frameWidth="593" frameHeight="225"/>
+	<SubTexture name="lagste down0007" x="6965" y="0" width="593" height="201" frameX="0" frameY="-24" frameWidth="593" frameHeight="225"/>
+	<SubTexture name="lagste down0008" x="6965" y="0" width="593" height="201" frameX="0" frameY="-24" frameWidth="593" frameHeight="225"/>
+	<SubTexture name="lagste down0009" x="6965" y="0" width="593" height="201" frameX="0" frameY="-24" frameWidth="593" frameHeight="225"/>
+	<SubTexture name="lagste down0010" x="6965" y="0" width="593" height="201" frameX="0" frameY="-24" frameWidth="593" frameHeight="225"/>
+	<SubTexture name="lagste down0011" x="6965" y="0" width="593" height="201" frameX="0" frameY="-24" frameWidth="593" frameHeight="225"/>
+	<SubTexture name="lagste down0012" x="6965" y="0" width="593" height="201" frameX="0" frameY="-24" frameWidth="593" frameHeight="225"/>
+	<SubTexture name="lagste down0013" x="6965" y="0" width="593" height="201" frameX="0" frameY="-24" frameWidth="593" frameHeight="225"/>
+	<SubTexture name="lagste down0014" x="6965" y="0" width="593" height="201" frameX="0" frameY="-24" frameWidth="593" frameHeight="225"/>
+	<SubTexture name="lagste idle0000" x="0" y="0" width="941" height="788" frameX="0" frameY="0" frameWidth="968" frameHeight="790"/>
+	<SubTexture name="lagste idle0001" x="0" y="0" width="941" height="788" frameX="0" frameY="0" frameWidth="968" frameHeight="790"/>
+	<SubTexture name="lagste idle0002" x="941" y="0" width="950" height="778" frameX="0" frameY="-9" frameWidth="968" frameHeight="790"/>
+	<SubTexture name="lagste idle0003" x="941" y="0" width="950" height="778" frameX="0" frameY="-9" frameWidth="968" frameHeight="790"/>
+	<SubTexture name="lagste idle0004" x="1891" y="0" width="966" height="763" frameX="-2" frameY="-27" frameWidth="968" frameHeight="790"/>
+	<SubTexture name="lagste idle0005" x="1891" y="0" width="966" height="763" frameX="-2" frameY="-27" frameWidth="968" frameHeight="790"/>
+	<SubTexture name="lagste idle0006" x="1891" y="0" width="966" height="763" frameX="-2" frameY="-27" frameWidth="968" frameHeight="790"/>
+	<SubTexture name="lagste idle0007" x="1891" y="0" width="966" height="763" frameX="-2" frameY="-27" frameWidth="968" frameHeight="790"/>
+	<SubTexture name="lagste idle0008" x="1891" y="0" width="966" height="763" frameX="-2" frameY="-27" frameWidth="968" frameHeight="790"/>
+	<SubTexture name="lagste idle0009" x="1891" y="0" width="966" height="763" frameX="-2" frameY="-27" frameWidth="968" frameHeight="790"/>
+	<SubTexture name="lagste idle0010" x="1891" y="0" width="966" height="763" frameX="-2" frameY="-27" frameWidth="968" frameHeight="790"/>
+	<SubTexture name="lagste idle0011" x="1891" y="0" width="966" height="763" frameX="-2" frameY="-27" frameWidth="968" frameHeight="790"/>
+	<SubTexture name="lagste idle0012" x="1891" y="0" width="966" height="763" frameX="-2" frameY="-27" frameWidth="968" frameHeight="790"/>
+	<SubTexture name="lagste idle0013" x="1891" y="0" width="966" height="763" frameX="-2" frameY="-27" frameWidth="968" frameHeight="790"/>
+	<SubTexture name="lagste idle0014" x="1891" y="0" width="966" height="763" frameX="-2" frameY="-27" frameWidth="968" frameHeight="790"/>
+	<SubTexture name="lagste left0000" x="3751" y="0" width="836" height="405" frameX="0" frameY="0" frameWidth="894" frameHeight="405"/>
+	<SubTexture name="lagste left0001" x="3751" y="0" width="836" height="405" frameX="0" frameY="0" frameWidth="894" frameHeight="405"/>
+	<SubTexture name="lagste left0002" x="2857" y="0" width="894" height="405"/>
+	<SubTexture name="lagste left0003" x="2857" y="0" width="894" height="405"/>
+	<SubTexture name="lagste left0004" x="2857" y="0" width="894" height="405"/>
+	<SubTexture name="lagste left0005" x="2857" y="0" width="894" height="405"/>
+	<SubTexture name="lagste left0006" x="2857" y="0" width="894" height="405"/>
+	<SubTexture name="lagste left0007" x="2857" y="0" width="894" height="405"/>
+	<SubTexture name="lagste left0008" x="2857" y="0" width="894" height="405"/>
+	<SubTexture name="lagste left0009" x="2857" y="0" width="894" height="405"/>
+	<SubTexture name="lagste left0010" x="2857" y="0" width="894" height="405"/>
+	<SubTexture name="lagste left0011" x="2857" y="0" width="894" height="405"/>
+	<SubTexture name="lagste left0012" x="2857" y="0" width="894" height="405"/>
+	<SubTexture name="lagste left0013" x="2857" y="0" width="894" height="405"/>
+	<SubTexture name="lagste left0014" x="2857" y="0" width="894" height="405"/>
+	<SubTexture name="lagste right0000" x="5174" y="0" width="542" height="541" frameX="-47" frameY="0" frameWidth="589" frameHeight="541"/>
+	<SubTexture name="lagste right0001" x="5174" y="0" width="542" height="541" frameX="-47" frameY="0" frameWidth="589" frameHeight="541"/>
+	<SubTexture name="lagste right0002" x="4587" y="0" width="587" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="541"/>
+	<SubTexture name="lagste right0003" x="4587" y="0" width="587" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="541"/>
+	<SubTexture name="lagste right0004" x="4587" y="0" width="587" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="541"/>
+	<SubTexture name="lagste right0005" x="4587" y="0" width="587" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="541"/>
+	<SubTexture name="lagste right0006" x="4587" y="0" width="587" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="541"/>
+	<SubTexture name="lagste right0007" x="4587" y="0" width="587" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="541"/>
+	<SubTexture name="lagste right0008" x="4587" y="0" width="587" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="541"/>
+	<SubTexture name="lagste right0009" x="4587" y="0" width="587" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="541"/>
+	<SubTexture name="lagste right0010" x="4587" y="0" width="587" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="541"/>
+	<SubTexture name="lagste right0011" x="4587" y="0" width="587" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="541"/>
+	<SubTexture name="lagste right0012" x="4587" y="0" width="587" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="541"/>
+	<SubTexture name="lagste right0013" x="4587" y="0" width="587" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="541"/>
+	<SubTexture name="lagste right0014" x="4587" y="0" width="587" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="541"/>
+	<SubTexture name="lagste up0000" x="6044" y="0" width="328" height="789" frameX="0" frameY="-36" frameWidth="328" frameHeight="825"/>
+	<SubTexture name="lagste up0001" x="6044" y="0" width="328" height="789" frameX="0" frameY="-36" frameWidth="328" frameHeight="825"/>
+	<SubTexture name="lagste up0002" x="5716" y="0" width="328" height="817" frameX="0" frameY="0" frameWidth="328" frameHeight="825"/>
+	<SubTexture name="lagste up0003" x="5716" y="0" width="328" height="817" frameX="0" frameY="0" frameWidth="328" frameHeight="825"/>
+	<SubTexture name="lagste up0004" x="5716" y="0" width="328" height="817" frameX="0" frameY="0" frameWidth="328" frameHeight="825"/>
+	<SubTexture name="lagste up0005" x="5716" y="0" width="328" height="817" frameX="0" frameY="0" frameWidth="328" frameHeight="825"/>
+	<SubTexture name="lagste up0006" x="5716" y="0" width="328" height="817" frameX="0" frameY="0" frameWidth="328" frameHeight="825"/>
+	<SubTexture name="lagste up0007" x="5716" y="0" width="328" height="817" frameX="0" frameY="0" frameWidth="328" frameHeight="825"/>
+	<SubTexture name="lagste up0008" x="5716" y="0" width="328" height="817" frameX="0" frameY="0" frameWidth="328" frameHeight="825"/>
+	<SubTexture name="lagste up0009" x="5716" y="0" width="328" height="817" frameX="0" frameY="0" frameWidth="328" frameHeight="825"/>
+	<SubTexture name="lagste up0010" x="5716" y="0" width="328" height="817" frameX="0" frameY="0" frameWidth="328" frameHeight="825"/>
+	<SubTexture name="lagste up0011" x="5716" y="0" width="328" height="817" frameX="0" frameY="0" frameWidth="328" frameHeight="825"/>
+	<SubTexture name="lagste up0012" x="5716" y="0" width="328" height="817" frameX="0" frameY="0" frameWidth="328" frameHeight="825"/>
+	<SubTexture name="lagste up0013" x="5716" y="0" width="328" height="817" frameX="0" frameY="0" frameWidth="328" frameHeight="825"/>
+	<SubTexture name="lagste up0014" x="5716" y="0" width="328" height="817" frameX="0" frameY="0" frameWidth="328" frameHeight="825"/>
+</TextureAtlas>

@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "OMG, es la ario cueva, ES REAL",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "amo dum, que hace un chico con pelo azul afuera de nuestra casa?",
+			"boxState": "normal",
+			"sound": "me",
+			"speed": 0.05,
+			"portrait": "ovejita"
+		},
+		{
+			"expression": "pissed",
+			"text": "vine a retarlos a una batalla de rap, pleb",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "no puede ser, malditos doomposters como me cagan",
+			"boxState": "normal",
+			"sound": "pleb",
+			"speed": 0.06,
+			"portrait": "doom"
+		},
+		{
+			"expression": "talk",
+			"text": "yo le dije que era mala idea subir fotos de la ario cueva a...",
+			"boxState": "normal",
+			"sound": "me",
+			"speed": 0.03,
+			"portrait": "ovejita"
+		},
+		{
+			"expression": "talk",
+			"text": "CALLATE EL OCICO OVEJA",
+			"boxState": "angry",
+			"sound": "pleb",
+			"speed": 0.03,
+			"portrait": "doom"
+		},
+		{
+			"expression": "talk",
+			"text": "ya se ardio el ario",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "te gusta el yuri  uwu",
+			"boxState": "normal",
+			"sound": "me",
+			"speed": 0.06,
+			"portrait": "ovejita"
+		},
+		{
+			"expression": "confused",
+			"text": "NO MAMES",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "si te crees muy vergas a ver si me ganas en una batalla de rap, esto va por el amo dum",
+			"boxState": "normal",
+			"sound": "me",
+			"speed": 0.04,
+			"portrait": "ovejita"
+		}
+	]
+}

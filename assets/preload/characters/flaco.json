@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				78,
+				-75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "flaco idle"
+		},
+		{
+			"offsets": [
+				89,
+				111
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "flaco up"
+		},
+		{
+			"offsets": [
+				280,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "flaco down"
+		},
+		{
+			"offsets": [
+				-11,
+				-200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "flaco ledt"
+		},
+		{
+			"offsets": [
+				472,
+				-161
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "flaco right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/flaco",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "g9g",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		10,
+		310
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

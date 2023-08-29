@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-312,
+				-85
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "oveja idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-251,
+				-230
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "oveja right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-181
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "oveja left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				-49
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "oveja up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-141,
+				-388
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "oveja down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oveja",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "g9g",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		250,
+		280
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ovejita.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="oveja0000" x="0" y="0" width="536" height="574" frameX="-1" frameY="0" frameWidth="537" frameHeight="574"/>
+	<SubTexture name="oveja0001" x="0" y="0" width="536" height="574" frameX="-1" frameY="0" frameWidth="537" frameHeight="574"/>
+	<SubTexture name="oveja0002" x="536" y="0" width="532" height="560" frameX="-1" frameY="-14" frameWidth="537" frameHeight="574"/>
+	<SubTexture name="oveja0003" x="536" y="0" width="532" height="560" frameX="-1" frameY="-14" frameWidth="537" frameHeight="574"/>
+	<SubTexture name="oveja0004" x="1068" y="0" width="535" height="566" frameX="0" frameY="-8" frameWidth="537" frameHeight="574"/>
+	<SubTexture name="oveja0005" x="1068" y="0" width="535" height="566" frameX="0" frameY="-8" frameWidth="537" frameHeight="574"/>
+	<SubTexture name="oveja0006" x="0" y="574" width="536" height="568" frameX="0" frameY="-6" frameWidth="537" frameHeight="574"/>
+	<SubTexture name="oveja0007" x="536" y="574" width="536" height="568" frameX="0" frameY="-6" frameWidth="537" frameHeight="574"/>
+</TextureAtlas>

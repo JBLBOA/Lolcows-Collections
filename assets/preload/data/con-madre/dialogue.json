@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "demon",
+			"text": "oye enano, esos son mis takis, no me hagas que te rompa la madre, esos takis son mios, mira que ya sufri mucho hoy"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "calmao compa que yo solo venia a pedirte un debate asi a lo tranqui, es mas, luego de esto te los puedo comprar"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "CON MADRE"
+		}
+	]
+}

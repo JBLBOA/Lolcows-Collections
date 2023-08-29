@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "como siempre tan mediocre"
+		},
+		{
+			"sound": "me",
+			"speed": 0.02,
+			"portrait": "ovejita",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NO DIGAS ESO"
+		},
+		{
+			"sound": "pleb",
+			"speed": 0.025,
+			"portrait": "doom",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "MALDITO DOOMPOSTER, NADIE SE METE CON MI ROOMIE"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "que roomie we?\\nsi tienes a oveja como tu esposa no me jodas"
+		},
+		{
+			"sound": "me",
+			"speed": 0.06,
+			"portrait": "ovejita",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no soy su esposa, yo soy la maid, pero no soy dragona *mueve la cloita uwu*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "mediocre"
+		},
+		{
+			"sound": "pleb",
+			"speed": 0.05,
+			"portrait": "doom",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NO LE DIGAS MEDIOCRE"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "y si no quiero que?"
+		},
+		{
+			"sound": "pleb",
+			"speed": 0.035,
+			"portrait": "doom",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NO ME QUIERES VER ENOJADO, O TENDRE QUE USAR LA PALMADA ARIA"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no mame don, este es un juego de ritmo, no un juego de pelea, para eso se va a hacer un mod al smash bros"
+		}
+	]
+}

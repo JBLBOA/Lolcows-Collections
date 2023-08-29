@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "doom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ustedes deben de ser gf y bf"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "si, tu debes de ser lagste no"
+		},
+		{
+			"sound": "",
+			"speed": 0.075,
+			"portrait": "doom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "obio flaco, la calidad en persona"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "te sale de las nalgas una batalla de rap"
+		},
+		{
+			"sound": "",
+			"speed": 0.085,
+			"portrait": "doom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "claro flaco, pero luego no llores si te gano flaco, como te dije"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "me vale verga, si me pude papear a ken, porque no a ti"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "demon",
+			"text": "como que le ganaste, si ken te saco la madre en direco pendjeo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "no me lo recuerdes gf"
+		}
+	]
+}

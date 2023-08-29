@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wario man"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "doom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "que quieres"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "TE ARDES MUCHO"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "doom",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "ESA ES MI FRASE"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "me vale verga, que vas a hacer, matarme en sony vegas"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "doom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "como que si te mustran un bebe, y dices, esta bonito, y en tu mente no piensas eso"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "y en tu mente no piensas eso, es que no estas siendo sincero, pero..."
+		},
+		{
+			"sound": "",
+			"speed": 0.015,
+			"portrait": "doom",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "ESTA BIEN CULER"
+		}
+	]
+}

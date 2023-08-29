@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Oveja Idle"
+		},
+		{
+			"offsets": [
+				-9,
+				-89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Oveja Right"
+		},
+		{
+			"offsets": [
+				36,
+				-66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Oveja Up"
+		},
+		{
+			"offsets": [
+				20,
+				-168
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Oveja Down"
+		},
+		{
+			"offsets": [
+				97,
+				-75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Oveja left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Oveja",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "oveja",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		115
+	],
+	"camera_position": [
+		250,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

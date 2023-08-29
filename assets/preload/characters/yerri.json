@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				160,
+				280
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "jerry idle"
+		},
+		{
+			"offsets": [
+				430,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "jerry left"
+		},
+		{
+			"offsets": [
+				30,
+				1130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "jerry up"
+		},
+		{
+			"offsets": [
+				162,
+				280
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "jerry down"
+		},
+		{
+			"offsets": [
+				-30,
+				240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Jerry right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/YERRI",
+	"position": [
+		90,
+		200
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		105,
+		81
+	],
+	"camera_position": [
+		-270,
+		-300
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

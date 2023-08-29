@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Doom idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				54
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Doom left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				79
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Doom up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Doom down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				43
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Doom right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/doom",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "doom",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		250,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

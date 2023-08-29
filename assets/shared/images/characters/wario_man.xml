@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wario_man.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wario Down0000" x="0" y="0" width="567" height="495" frameX="-3" frameY="-8" frameWidth="570" frameHeight="503"/>
+	<SubTexture name="wario Down0001" x="0" y="0" width="567" height="495" frameX="-3" frameY="-8" frameWidth="570" frameHeight="503"/>
+	<SubTexture name="wario Down0002" x="567" y="0" width="567" height="503" frameX="0" frameY="0" frameWidth="570" frameHeight="503"/>
+	<SubTexture name="wario Down0003" x="567" y="0" width="567" height="503" frameX="0" frameY="0" frameWidth="570" frameHeight="503"/>
+	<SubTexture name="wario Down0004" x="567" y="0" width="567" height="503" frameX="0" frameY="0" frameWidth="570" frameHeight="503"/>
+	<SubTexture name="wario Down0005" x="567" y="0" width="567" height="503" frameX="0" frameY="0" frameWidth="570" frameHeight="503"/>
+	<SubTexture name="wario Down0006" x="567" y="0" width="567" height="503" frameX="0" frameY="0" frameWidth="570" frameHeight="503"/>
+	<SubTexture name="wario Down0007" x="567" y="0" width="567" height="503" frameX="0" frameY="0" frameWidth="570" frameHeight="503"/>
+	<SubTexture name="wario Down0008" x="567" y="0" width="567" height="503" frameX="0" frameY="0" frameWidth="570" frameHeight="503"/>
+	<SubTexture name="wario Down0009" x="567" y="0" width="567" height="503" frameX="0" frameY="0" frameWidth="570" frameHeight="503"/>
+	<SubTexture name="wario Down0010" x="567" y="0" width="567" height="503" frameX="0" frameY="0" frameWidth="570" frameHeight="503"/>
+	<SubTexture name="wario Down0011" x="567" y="0" width="567" height="503" frameX="0" frameY="0" frameWidth="570" frameHeight="503"/>
+	<SubTexture name="wario Down0012" x="567" y="0" width="567" height="503" frameX="0" frameY="0" frameWidth="570" frameHeight="503"/>
+	<SubTexture name="wario Down0013" x="567" y="0" width="567" height="503" frameX="0" frameY="0" frameWidth="570" frameHeight="503"/>
+	<SubTexture name="wario Idle0000" x="1134" y="0" width="514" height="482" frameX="-3" frameY="-15" frameWidth="520" frameHeight="497"/>
+	<SubTexture name="wario Idle0001" x="1134" y="0" width="514" height="482" frameX="-3" frameY="-15" frameWidth="520" frameHeight="497"/>
+	<SubTexture name="wario Idle0002" x="1648" y="0" width="511" height="492" frameX="-9" frameY="-5" frameWidth="520" frameHeight="497"/>
+	<SubTexture name="wario Idle0003" x="1648" y="0" width="511" height="492" frameX="-9" frameY="-5" frameWidth="520" frameHeight="497"/>
+	<SubTexture name="wario Idle0004" x="2159" y="0" width="514" height="497" frameX="-4" frameY="0" frameWidth="520" frameHeight="497"/>
+	<SubTexture name="wario Idle0005" x="2159" y="0" width="514" height="497" frameX="-4" frameY="0" frameWidth="520" frameHeight="497"/>
+	<SubTexture name="wario Idle0006" x="2673" y="0" width="507" height="497" frameX="-1" frameY="0" frameWidth="520" frameHeight="497"/>
+	<SubTexture name="wario Idle0007" x="2673" y="0" width="507" height="497" frameX="-1" frameY="0" frameWidth="520" frameHeight="497"/>
+	<SubTexture name="wario Idle0008" x="3180" y="0" width="505" height="496" frameX="0" frameY="-1" frameWidth="520" frameHeight="497"/>
+	<SubTexture name="wario Idle0009" x="3180" y="0" width="505" height="496" frameX="0" frameY="-1" frameWidth="520" frameHeight="497"/>
+	<SubTexture name="wario Idle0010" x="3180" y="0" width="505" height="496" frameX="0" frameY="-1" frameWidth="520" frameHeight="497"/>
+	<SubTexture name="wario Idle0011" x="3180" y="0" width="505" height="496" frameX="0" frameY="-1" frameWidth="520" frameHeight="497"/>
+	<SubTexture name="wario Idle0012" x="3180" y="0" width="505" height="496" frameX="0" frameY="-1" frameWidth="520" frameHeight="497"/>
+	<SubTexture name="wario Idle0013" x="3180" y="0" width="505" height="496" frameX="0" frameY="-1" frameWidth="520" frameHeight="497"/>
+	<SubTexture name="wario Left0000" x="0" y="503" width="478" height="502" frameX="0" frameY="-5" frameWidth="478" frameHeight="507"/>
+	<SubTexture name="wario Left0001" x="0" y="503" width="478" height="502" frameX="0" frameY="-5" frameWidth="478" frameHeight="507"/>
+	<SubTexture name="wario Left0002" x="478" y="503" width="470" height="507" frameX="-5" frameY="0" frameWidth="478" frameHeight="507"/>
+	<SubTexture name="wario Left0003" x="478" y="503" width="470" height="507" frameX="-5" frameY="0" frameWidth="478" frameHeight="507"/>
+	<SubTexture name="wario Left0004" x="478" y="503" width="470" height="507" frameX="-5" frameY="0" frameWidth="478" frameHeight="507"/>
+	<SubTexture name="wario Left0005" x="478" y="503" width="470" height="507" frameX="-5" frameY="0" frameWidth="478" frameHeight="507"/>
+	<SubTexture name="wario Left0006" x="478" y="503" width="470" height="507" frameX="-5" frameY="0" frameWidth="478" frameHeight="507"/>
+	<SubTexture name="wario Left0007" x="478" y="503" width="470" height="507" frameX="-5" frameY="0" frameWidth="478" frameHeight="507"/>
+	<SubTexture name="wario Left0008" x="478" y="503" width="470" height="507" frameX="-5" frameY="0" frameWidth="478" frameHeight="507"/>
+	<SubTexture name="wario Left0009" x="478" y="503" width="470" height="507" frameX="-5" frameY="0" frameWidth="478" frameHeight="507"/>
+	<SubTexture name="wario Right0000" x="948" y="503" width="491" height="501" frameX="0" frameY="-1" frameWidth="491" frameHeight="502"/>
+	<SubTexture name="wario Right0001" x="948" y="503" width="491" height="501" frameX="0" frameY="-1" frameWidth="491" frameHeight="502"/>
+	<SubTexture name="wario Right0002" x="1439" y="503" width="487" height="502" frameX="0" frameY="0" frameWidth="491" frameHeight="502"/>
+	<SubTexture name="wario Right0003" x="1439" y="503" width="487" height="502" frameX="0" frameY="0" frameWidth="491" frameHeight="502"/>
+	<SubTexture name="wario Right0004" x="1439" y="503" width="487" height="502" frameX="0" frameY="0" frameWidth="491" frameHeight="502"/>
+	<SubTexture name="wario Right0005" x="1439" y="503" width="487" height="502" frameX="0" frameY="0" frameWidth="491" frameHeight="502"/>
+	<SubTexture name="wario Right0006" x="1439" y="503" width="487" height="502" frameX="0" frameY="0" frameWidth="491" frameHeight="502"/>
+	<SubTexture name="wario Right0007" x="1439" y="503" width="487" height="502" frameX="0" frameY="0" frameWidth="491" frameHeight="502"/>
+	<SubTexture name="wario Right0008" x="1439" y="503" width="487" height="502" frameX="0" frameY="0" frameWidth="491" frameHeight="502"/>
+	<SubTexture name="wario Right0009" x="1439" y="503" width="487" height="502" frameX="0" frameY="0" frameWidth="491" frameHeight="502"/>
+	<SubTexture name="wario Right0010" x="1439" y="503" width="487" height="502" frameX="0" frameY="0" frameWidth="491" frameHeight="502"/>
+	<SubTexture name="wario Right0011" x="1439" y="503" width="487" height="502" frameX="0" frameY="0" frameWidth="491" frameHeight="502"/>
+	<SubTexture name="wario Right0012" x="1439" y="503" width="487" height="502" frameX="0" frameY="0" frameWidth="491" frameHeight="502"/>
+	<SubTexture name="wario Right0013" x="1439" y="503" width="487" height="502" frameX="0" frameY="0" frameWidth="491" frameHeight="502"/>
+	<SubTexture name="wario Up0000" x="1926" y="503" width="492" height="628" frameX="-11" frameY="0" frameWidth="503" frameHeight="628"/>
+	<SubTexture name="wario Up0001" x="1926" y="503" width="492" height="628" frameX="-11" frameY="0" frameWidth="503" frameHeight="628"/>
+	<SubTexture name="wario Up0002" x="2418" y="503" width="498" height="615" frameX="0" frameY="-13" frameWidth="503" frameHeight="628"/>
+	<SubTexture name="wario Up0003" x="2418" y="503" width="498" height="615" frameX="0" frameY="-13" frameWidth="503" frameHeight="628"/>
+	<SubTexture name="wario Up0004" x="2418" y="503" width="498" height="615" frameX="0" frameY="-13" frameWidth="503" frameHeight="628"/>
+	<SubTexture name="wario Up0005" x="2418" y="503" width="498" height="615" frameX="0" frameY="-13" frameWidth="503" frameHeight="628"/>
+	<SubTexture name="wario Up0006" x="2418" y="503" width="498" height="615" frameX="0" frameY="-13" frameWidth="503" frameHeight="628"/>
+	<SubTexture name="wario Up0007" x="2418" y="503" width="498" height="615" frameX="0" frameY="-13" frameWidth="503" frameHeight="628"/>
+	<SubTexture name="wario Up0008" x="2418" y="503" width="498" height="615" frameX="0" frameY="-13" frameWidth="503" frameHeight="628"/>
+	<SubTexture name="wario Up0009" x="2418" y="503" width="498" height="615" frameX="0" frameY="-13" frameWidth="503" frameHeight="628"/>
+</TextureAtlas>
