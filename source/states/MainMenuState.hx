@@ -130,54 +130,44 @@ class MainMenuState extends MusicBeatState
 
 		FlxG.mouse.visible = true;
 
-		christChan = new FlxSprite(-150).loadGraphic(Paths.image('mainmenu/historias/ChristChan'));
+		christChan = new FlxSprite(10, 50).loadGraphic(Paths.image('mainmenu/historias/ChristChan'));
 		christChan.antialiasing = ClientPrefs.data.antialiasing;
 		christChan.scrollFactor.set(0, 0);
-		christChan.scale.x = 0.4;
-		christChan.scale.y = 0.5;
+		christChan.scale.x = 0.8;
+		christChan.scale.y = 0.8;
 		add(christChan);
 
-		dalas = new FlxSprite(160).loadGraphic(Paths.image('mainmenu/historias/Dalas'));
+		dalas = new FlxSprite(50, 50).loadGraphic(Paths.image('mainmenu/historias/Dalas'));
 		dalas.antialiasing = ClientPrefs.data.antialiasing;
 		dalas.scrollFactor.set(0, 0);
-		dalas.scale.x = 0.4;
-		dalas.scale.y = 0.5;
+		dalas.scale.x = 0.8;
+		dalas.scale.y = 0.8;
 		add(dalas);
 
 		doom = new FlxSprite(470).loadGraphic(Paths.image('mainmenu/historias/Doom'));
 		doom.antialiasing = ClientPrefs.data.antialiasing;
 		doom.scrollFactor.set(0, 0);
-		doom.scale.x = 0.4;
-		doom.scale.y = 0.5;
 		add(doom);
 
 		niko = new FlxSprite(780).loadGraphic(Paths.image('mainmenu/historias/niko'));
 		niko.antialiasing = ClientPrefs.data.antialiasing;
 		niko.scrollFactor.set(0, 0);
-		niko.scale.x = 0.4;
-		niko.scale.y = 0.5;
 		add(niko);
 
 		//pene
 		settings = new FlxSprite(-150, 350).loadGraphic(Paths.image('mainmenu/historias/optionsShit/settings'));
 		settings.antialiasing = ClientPrefs.data.antialiasing;
 		settings.scrollFactor.set(0, 0);
-		settings.scale.x = 0.3;
-		settings.scale.y = 0.3;
 		add(settings);
 
 		awards = new FlxSprite(160, 350).loadGraphic(Paths.image('mainmenu/historias/optionsShit/awards'));
 		awards.antialiasing = ClientPrefs.data.antialiasing;
 		awards.scrollFactor.set(0, 0);
-		awards.scale.x = 0.3;
-		awards.scale.y = 0.3;
 		add(awards);
 
 		songs = new FlxSprite(470, 350).loadGraphic(Paths.image('mainmenu/historias/optionsShit/songs'));
 		songs.antialiasing = ClientPrefs.data.antialiasing;
 		songs.scrollFactor.set(0, 0);
-		songs.scale.x = 0.3;
-		songs.scale.y = 0.3;
 		add(songs);
 
 		var versionShit:FlxText = new FlxText(12, FlxG.height - 44, 0, "Psych Engine v" + psychEngineVersion, 12);
